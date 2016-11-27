@@ -1,4 +1,4 @@
-/* v1.0 */
+/* v1.01 */
 #pageTitle {
 	width: 100%;
 	height: 75px
@@ -9,7 +9,8 @@
 	border-radius: 10px;
 }
 #page {
-	margin-top: 90px;
+	border: 1px solid black;
+	margin-top: 100px;
 }
 body {
 	background-color: black;
@@ -21,12 +22,13 @@ body {
 	display: inline-block;
 	border: 2px solid #3d2147;
 	border-radius: 5px;
-	padding: 5px;
+	padding: 20px;
+	margin: 15px;
 }
 .content {
 	background-color: #47c16e;
 	color: black;
 	border: 1px solid #3d2147;
 	border-radius: 5px;
-	padding: 5px;
+	padding: 15px;
 }
