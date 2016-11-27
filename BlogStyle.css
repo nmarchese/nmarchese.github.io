@@ -1,15 +1,19 @@
 body {
 	background-color: black;
 	color: white;
-	border-radius: 5px;
 }
 .headings {
 	background-color: #00a0a6;
-	color: grey;
+	color: black;
 	display: inline-block;
 	border: 2px solid #3d2147;
+	border-radius: 5px;
+	padding: 5px;
 }
 .content {
 	background-color: #7cdda5;
 	color: black;
+	border: 1px solid #3d2147;
+	border-radius: 5px;
+	padding: 5px;
 }
