@@ -1,16 +1,16 @@
-/* v1.02 */
+/* v1.03 */
 #pageTitle {
 	width: 100%;
 	height: 75px
 	position: fixed;
 	background-color: #0826ba;
 	color: white;
+	text-align: center;
 	border: 5px solid black;
 	border-radius: 10px;
 }
 #page {
 	border: 1px solid black;
-	margin-top: 85px;
 }
 body {
 	background-color: black;
