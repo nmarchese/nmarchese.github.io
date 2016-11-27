@@ -5,8 +5,9 @@ body {
 .headings {
 	background-color: #00a0a6;
 	color: black;
+	display: inline-block;
 }
 .content {
-	background-color: #2de142;
+	background-color: #5fc98b;
 	color: black;
 }
