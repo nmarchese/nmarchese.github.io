@@ -1,5 +1,12 @@
 body {
 	background-color: black;
 	color: white;
-	/* Should work? html link broken? */
+}
+.headings {
+	background-color: #00a0a6;
+	color: black;
+}
+.content {
+	background-color: #2de142;
+	color: black;
 }
