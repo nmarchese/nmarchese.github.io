@@ -1,4 +1,4 @@
-/* v1.05 */
+/* v1.07 */
 #pageTitle {
 	width: 100%;
 	height: 75px
@@ -20,7 +20,6 @@ body {
 .headings {
 	background-color: #00a0a6;
 	color: black;
-	display: inline-block;
 	font-family: cursive;
 	border: 2px solid #3d2147;
 	border-radius: 5px;
@@ -30,7 +29,6 @@ body {
 .content {
 	background-color: #47c16e;
 	color: black;
-	display: inline-block;
 	border: 1px solid #3d2147;
 	border-radius: 5px;
 	padding: 15px;
