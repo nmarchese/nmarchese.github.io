@@ -1,11 +1,11 @@
-/* v1.09 */
+/* v1.10 */
 #pageTitle {
 	position: fixed;
 	background-color: #0826ba;
 	width: 100%;
 	height: 75px
 	color: w#c5c5c5;
-	margin-top: -50px;
+	margin-top: -60px;
 	text-align: center;
 	border: 5px solid white;
 	border-radius: 10px;
