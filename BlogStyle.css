@@ -1,13 +1,15 @@
+/* v1.0 */
 #pageTitle {
 	width: 100%;
 	height: 75px
-	align-content: center;
 	position: fixed;
 	background-color: #0826ba;
 	color: white;
+	border: 5px solid black;
+	border-radius: 10px;
 }
 #page {
-	margin-top: 
+	margin-top: 90px;
 }
 body {
 	background-color: black;
