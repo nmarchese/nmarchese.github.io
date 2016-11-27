@@ -1,9 +1,9 @@
-/* v1.08 */
+/* v1.09 */
 #pageTitle {
 	position: fixed;
+	background-color: #0826ba;
 	width: 100%;
 	height: 75px
-	background-color: #0826ba;
 	color: w#c5c5c5;
 	text-align: center;
 	border: 5px solid white;
@@ -11,6 +11,7 @@
 }
 #page {
 	border: 1px solid black;
+	margin-top: 80px;
 }
 body {
 	background-color: black;
