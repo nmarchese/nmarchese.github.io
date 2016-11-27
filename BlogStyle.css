@@ -1,14 +1,13 @@
-/* v1.07 */
+/* v1.08 */
 #pageTitle {
+	position: fixed;
 	width: 100%;
 	height: 75px
-	position: fixed;
 	background-color: #0826ba;
 	color: w#c5c5c5;
 	text-align: center;
-	border: 5px solid black;
+	border: 5px solid white;
 	border-radius: 10px;
-	z-index: 1;
 }
 #page {
 	border: 1px solid black;
