@@ -1,13 +1,15 @@
 body {
 	background-color: black;
 	color: white;
+	border-radius: 5px;
 }
 .headings {
 	background-color: #00a0a6;
 	color: black;
 	display: inline-block;
+	border: 2px solid #3d2147;
 }
 .content {
-	background-color: #5fc98b;
+	background-color: #7cdda5;
 	color: black;
 }
